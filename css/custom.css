@@ -1,0 +1,58 @@
+.info {
+	font-size: 24px;
+}
+
+.image-container {
+	height: 350px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.statut1529 {
+	background-image: url('../img/statut1529.jpg');
+}
+.Statut1566 {
+	background-image: url('../img/Statut1566.jpg');
+	}
+	
+.statut1588 {
+	background-image: url('../img/statut1588.jpg');
+	}
+	.Constitution_of_Belarus1927 {
+	background-image: url('../img/Constitution_of_Belarus1927.jpg');
+	}
+.A1994 {
+	background-image: url('../img/A1994.jpg');
+	}
+	
+.A1339995 {
+	background-image: url('../img/A1339995.jpg');
+	}
+.sakatkova {
+	background-image: url('../img/sakatkova.jpg');
+	}
+.kasovich{
+	background-image: url('../img/kasovich.jpg');
+	}
+.velikiy{
+	background-image: url('../img/velikiy.jpg');
+	}
+.A123{
+	background-image: url('../img/A123.jpg');
+	}
+.S123{
+	background-image: url('../img/S123.jpg');
+	}
+.D123{
+	background-image: url('../img/D123.jpg');
+	}
+.F123{
+	background-image: url('../img/F123.png');
+	}
+.W123{
+	background-image: url('../img/W123.svg');
+	}
+.Z123{
+	background-image: url('../img/Z123.png');
+	} 
